@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 0;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+body{
+    background-color: white;
+}
+
+.firstsection{
+    color: green;
+    border: 3px solid green;
+    font-size: 14px;
+    border-radius: 25px;
+}
+
+.secondsection{
+    color: red;
+    border: 3px solid red;
+    font-size: 14px;
+    border-radius: 25px;
+}
+
+.thirdsection{
+    color: blue;
+    border: 3px solid blue;
+    font-size: 14px;
+    border-radius: 25px;
+}
+
+#h1{
+    font-size: 18px;
+}
+   
+#h2{
+    font-size: 18px;
+}
+
+#h3{
+    font-size: 18px;
+}
